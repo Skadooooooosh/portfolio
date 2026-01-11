@@ -1,0 +1,78 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    line-height: 1.6;
+}
+
+header {
+    background-color: lightcoral;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+nav {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.content {
+    width: 65%;
+    float: left;
+    padding: 10px;
+}
+
+aside {
+    width: 30%;
+    float: right;
+    background-color: lightyellow;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+footer {
+    clear: both;
+    background-color: lightgreen;
+    text-align: center;
+    padding: 10px;
+}
+
+.about-bg {
+    background-image: url("background.jpg");
+}
+
+.float-left {
+    float: left;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.float-right {
+    float: right;
+    margin: 5px;
+    border: 2px solid black;
+}
+.hobby-section {
+    width: 450px;
+    margin: auto;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+.contact-box {
+    background-color: lightpink;
+    border: 2px solid black;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
